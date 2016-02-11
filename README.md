@@ -1,3 +1,3 @@
-# Easy SmartHouse ![Easy SmartHouse Logo](http://s7.postimg.org/7hkfs9f8b/Smart_House_Logo.png)
+# Easy SmartHouse ![Easy SmartHouse Logo](https://raw.githubusercontent.com/EasySmartHouse/EasySmartHouse-aux/master/logos/1_Primary_logo_on_transparent.png)
 
 EasySmartHouse.net articles and auxiliary materials
